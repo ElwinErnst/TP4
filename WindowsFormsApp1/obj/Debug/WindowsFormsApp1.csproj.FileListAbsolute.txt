@@ -1,0 +1,74 @@
+C:\Users\Ian Hein\source\repos\WFCrucigrama\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Ian Hein\source\repos\WFCrucigrama\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Ian Hein\source\repos\WFCrucigrama\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Ian Hein\source\repos\WFCrucigrama\WindowsFormsApp1\bin\Debug\Crucigramas\puzzle1.tp4
+C:\Users\Ian Hein\source\repos\WFCrucigrama\WindowsFormsApp1\bin\Debug\CrucigramaForm.exe.config
+C:\Users\Ian Hein\source\repos\WFCrucigrama\WindowsFormsApp1\bin\Debug\CrucigramaForm.exe
+C:\Users\Ian Hein\source\repos\WFCrucigrama\WindowsFormsApp1\bin\Debug\CrucigramaForm.pdb
+C:\Users\Ian Hein\source\repos\WFCrucigrama\WindowsFormsApp1\obj\Debug\crucigramaForm.Main.resources
+C:\Users\Ian Hein\source\repos\WFCrucigrama\WindowsFormsApp1\obj\Debug\crucigramaForm.Forms.Login.resources
+C:\Users\Ian Hein\source\repos\WFCrucigrama\WindowsFormsApp1\obj\Debug\crucigramaForm.Pistas.resources
+C:\Users\Ian Hein\source\repos\WFCrucigrama\WindowsFormsApp1\obj\Debug\CrucigramaForms.Properties.Resources.resources
+C:\Users\Ian Hein\source\repos\WFCrucigrama\WindowsFormsApp1\obj\Debug\CrucigramaForm.exe
+C:\Users\Ian Hein\source\repos\WFCrucigrama\WindowsFormsApp1\obj\Debug\CrucigramaForm.pdb
+C:\Users\Ian Hein\source\repos\WF\WFCrucigrama\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Ian Hein\source\repos\WF\WFCrucigrama\WindowsFormsApp1\obj\Debug\crucigramaForm.Main.resources
+C:\Users\Ian Hein\source\repos\WF\WFCrucigrama\WindowsFormsApp1\obj\Debug\crucigramaForm.Pistas.resources
+C:\Users\Ian Hein\source\repos\WF\WFCrucigrama\WindowsFormsApp1\obj\Debug\CrucigramaForms.Properties.Resources.resources
+C:\Users\Ian Hein\source\repos\WF\WFCrucigrama\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Ian Hein\source\repos\WF\WFCrucigrama\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Ian Hein\source\repos\WF\WFCrucigrama\WindowsFormsApp1\obj\Debug\CrucigramaForm.exe
+C:\Users\Ian Hein\source\repos\WF\WFCrucigrama\WindowsFormsApp1\obj\Debug\CrucigramaForm.pdb
+C:\Users\Ian Hein\source\repos\WF\WFCrucigrama\WindowsFormsApp1\bin\Debug\Crucigramas\puzzle1.tp4
+C:\Users\Ian Hein\source\repos\WF\WFCrucigrama\WindowsFormsApp1\bin\Debug\CrucigramaForm.exe.config
+C:\Users\Ian Hein\source\repos\WF\WFCrucigrama\WindowsFormsApp1\bin\Debug\CrucigramaForm.exe
+C:\Users\Ian Hein\source\repos\WF\WFCrucigrama\WindowsFormsApp1\bin\Debug\CrucigramaForm.pdb
+C:\Users\Ian Hein\source\repos\WF\WFCrucigrama\WindowsFormsApp1\bin\Debug\System.Data.SQLite.dll
+C:\Users\Ian Hein\source\repos\WF\WFCrucigrama\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Ian Hein\source\repos\WF\WFCrucigrama\WindowsFormsApp1\obj\Debug\CrucigramaForms.Forms.Login.resources
+C:\Users\Ian Hein\source\repos\WF\WFCrucigrama\WindowsFormsApp1\obj\Debug\CrucigramaForms.Forms.Puntajes.resources
+C:\Users\MI\Desktop\WFCrucigrama\WindowsFormsApp1\bin\Debug\Crucigramas\puzzle1.tp4
+C:\Users\MI\Desktop\WFCrucigrama\WindowsFormsApp1\bin\Debug\CrucigramaForm.exe.config
+C:\Users\MI\Desktop\WFCrucigrama\WindowsFormsApp1\bin\Debug\CrucigramaForm.exe
+C:\Users\MI\Desktop\WFCrucigrama\WindowsFormsApp1\bin\Debug\CrucigramaForm.pdb
+C:\Users\MI\Desktop\WFCrucigrama\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\MI\Desktop\WFCrucigrama\WindowsFormsApp1\obj\Debug\crucigramaForm.Main.resources
+C:\Users\MI\Desktop\WFCrucigrama\WindowsFormsApp1\obj\Debug\CrucigramaForms.Forms.Login.resources
+C:\Users\MI\Desktop\WFCrucigrama\WindowsFormsApp1\obj\Debug\crucigramaForm.Pistas.resources
+C:\Users\MI\Desktop\WFCrucigrama\WindowsFormsApp1\obj\Debug\CrucigramaForms.Forms.Puntajes.resources
+C:\Users\MI\Desktop\WFCrucigrama\WindowsFormsApp1\obj\Debug\CrucigramaForms.Properties.Resources.resources
+C:\Users\MI\Desktop\WFCrucigrama\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\MI\Desktop\WFCrucigrama\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\MI\Desktop\WFCrucigrama\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\MI\Desktop\WFCrucigrama\WindowsFormsApp1\obj\Debug\CrucigramaForm.exe
+C:\Users\MI\Desktop\WFCrucigrama\WindowsFormsApp1\obj\Debug\CrucigramaForm.pdb
+C:\Users\Ian Hein\Desktop\WFCrucigrama\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Ian Hein\Desktop\WFCrucigrama\WindowsFormsApp1\obj\Debug\crucigramaForm.Main.resources
+C:\Users\Ian Hein\Desktop\WFCrucigrama\WindowsFormsApp1\obj\Debug\CrucigramaForms.Forms.Login.resources
+C:\Users\Ian Hein\Desktop\WFCrucigrama\WindowsFormsApp1\obj\Debug\crucigramaForm.Pistas.resources
+C:\Users\Ian Hein\Desktop\WFCrucigrama\WindowsFormsApp1\obj\Debug\CrucigramaForms.Forms.Puntajes.resources
+C:\Users\Ian Hein\Desktop\WFCrucigrama\WindowsFormsApp1\obj\Debug\CrucigramaForms.Properties.Resources.resources
+C:\Users\Ian Hein\Desktop\WFCrucigrama\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Ian Hein\Desktop\WFCrucigrama\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Ian Hein\Desktop\WFCrucigrama\WindowsFormsApp1\obj\Debug\CrucigramaForm.exe
+C:\Users\Ian Hein\Desktop\WFCrucigrama\WindowsFormsApp1\obj\Debug\CrucigramaForm.pdb
+C:\Users\Ian Hein\Desktop\WFCrucigrama\WindowsFormsApp1\bin\Debug\Crucigramas\puzzle1.tp4
+C:\Users\Ian Hein\Desktop\WFCrucigrama\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Ian Hein\Desktop\WFCrucigrama\WindowsFormsApp1\bin\Debug\CrucigramaForm.exe.config
+C:\Users\Ian Hein\Desktop\WFCrucigrama\WindowsFormsApp1\bin\Debug\CrucigramaForm.exe
+C:\Users\Ian Hein\Desktop\WFCrucigrama\WindowsFormsApp1\bin\Debug\CrucigramaForm.pdb
+C:\Users\MI\Desktop\WFCrucigram\WindowsFormsApp1\bin\Debug\Crucigramas\puzzle1.tp4
+C:\Users\MI\Desktop\WFCrucigram\WindowsFormsApp1\bin\Debug\CrucigramaForm.exe.config
+C:\Users\MI\Desktop\WFCrucigram\WindowsFormsApp1\bin\Debug\CrucigramaForm.exe
+C:\Users\MI\Desktop\WFCrucigram\WindowsFormsApp1\bin\Debug\CrucigramaForm.pdb
+C:\Users\MI\Desktop\WFCrucigram\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\MI\Desktop\WFCrucigram\WindowsFormsApp1\obj\Debug\crucigramaForm.Main.resources
+C:\Users\MI\Desktop\WFCrucigram\WindowsFormsApp1\obj\Debug\CrucigramaForms.Forms.Login.resources
+C:\Users\MI\Desktop\WFCrucigram\WindowsFormsApp1\obj\Debug\crucigramaForm.Pistas.resources
+C:\Users\MI\Desktop\WFCrucigram\WindowsFormsApp1\obj\Debug\CrucigramaForms.Forms.Puntajes.resources
+C:\Users\MI\Desktop\WFCrucigram\WindowsFormsApp1\obj\Debug\CrucigramaForms.Properties.Resources.resources
+C:\Users\MI\Desktop\WFCrucigram\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\MI\Desktop\WFCrucigram\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\MI\Desktop\WFCrucigram\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\MI\Desktop\WFCrucigram\WindowsFormsApp1\obj\Debug\CrucigramaForm.exe
+C:\Users\MI\Desktop\WFCrucigram\WindowsFormsApp1\obj\Debug\CrucigramaForm.pdb

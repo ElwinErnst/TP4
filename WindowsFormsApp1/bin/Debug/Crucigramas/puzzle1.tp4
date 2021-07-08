@@ -1,0 +1,16 @@
+x|y|direccion|numero|palabra|pista
+12|3|vertical|1|chipset|dirige el trafico por la placa base
+14|3|horizontal|2|byte|unidad de almasenamiento
+14|3|vertical|2|bit|unidad minima de informacion
+11|5|horizontal|4|pista|por donde viaja la informacion por la placa base
+10|6|vertical|5|mainboard|otro nombre para la placa base
+7|8|horizontal|7|perifericos|mouse, teclado, monitor, etc.
+3|13|horizontal|10|ascii|codigo utilizado para los caracteres
+4|11|vertical|8|buses|memoria muy rapida complemento de la RAM
+4|11|horizontal|8|binario|sistema de numeracion de base 2
+14|7|vertical|6|dimm|ranura donde se coloca la RAM
+12|11|vertical|9|ram|unidad de almasenamiento temporal y de alta velocidad
+8|4|horizontal|3|cpu|abrebiatura de microprocesador
+8|4|vertical|3|cache|memoria muy rapida complemento de la RAM
+9|14|horizontal|12|hd|siglas de disco duro
+10|13|horizontal|11|rom|donde se guardan las instrucciones de arranque
